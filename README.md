@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi I'm NekoKokusei , Welcome to my github profile! 👋
+
+Hello, my name is nekokokusei Now I'm practicing computer programming 🖥️, drawing ✏️, playing electric guitar 🎸.
+
+🌱 I’m currently learning Python, HTML5, mySQL.
+
+⚡ Fun fact: Kokusei is mean lighting,speed in japanese
 
 <!--
 **FlokeZa89/FlokeZa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
