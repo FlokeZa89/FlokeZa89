@@ -1,6 +1,6 @@
 # Hi I'm NekoKokusei , Welcome to my github profile! 👋
 
-Hello, my name is nekokokusei Now I'm practicing computer programming 🖥️, drawing ✏️, playing electric guitar 🎸.
+Hello, my name is nekokokusei Now I'm practicing computer programing 🖥️, drawing ✏️, playing electric guitar 🎸.
 
 🌱 I’m currently learning Python, HTML5, mySQL.
 
