@@ -1,8 +1,5 @@
-# Hi I'm NekoKokusei , Welcome to my github profile! 👋
 
-Hello, my name is nekokokusei Now I'm practicing computer programing 🖥️, drawing ✏️, playing electric guitar 🎸.
-
-🌱 I’m currently learning Python, HTML5, mySQL.
+![alt text](https://pbs.twimg.com/media/Fq0ZcPlaIAAesT9?format=jpg&name=4096x4096)
 
 ⚡ Fun fact: Kokusei is mean lightning,speed in japanese
 
