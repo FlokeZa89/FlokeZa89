@@ -1,4 +1,4 @@
-Hi 👋 My name is Kitthapob Piwan (Mori Kokusei)
+Hi 👋 My name is Kitthapob Piwan (Kunanon Mori)
 ======================
 
 Student
