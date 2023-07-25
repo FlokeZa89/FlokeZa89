@@ -29,6 +29,7 @@ src="https://img.shields.io/github/followers/morikunanon?logo=github&style=for-t
 
 ### Socials
 <p align="left"> 
+<a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/morikunanon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
