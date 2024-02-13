@@ -7,7 +7,7 @@ Student
 * 🌍  I'm based in Thailand
 
 <a href="https://www.github.com/morikunanon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/morikunanon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/kunamori?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
