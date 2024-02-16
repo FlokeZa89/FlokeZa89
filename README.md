@@ -1,4 +1,4 @@
-Hi 👋 My name is Kitthapob Piwan (Kunanon Mori)
+Hi 👋 My name is Kunanon Mori
 ======================
 
 Student
